@@ -11,3 +11,8 @@ Solving this assignment will give you an idea about how real business problems a
 
 
 ### To develop your understanding of the domain, you are advised to independently research a little about risk analytics (understanding the types of variables and their significance should be enough).
+
+
+Team Members:
+Vedavyas Burli
+Sreenath S Das
